@@ -21,5 +21,10 @@
     "> 1%",
     "last 2 versions",
     "not dead"
-  ]
+  ],
+  "license": "mit",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wlgz/canvasvcode.git"
+  }
 }
