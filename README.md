@@ -2,18 +2,12 @@
 
 ## Project setup
 ```
-npm install
+npm install --save canvasvcode
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### Use
+import canvasvcode from "canvasvcode";
+import "canvasvcode/dist/canvasvcode.css";
+Vue.use(canvasvcode);
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
